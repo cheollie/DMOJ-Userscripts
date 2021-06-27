@@ -2,8 +2,8 @@
 //language to see if its doable in your language? well this is what 
 //this is for :wink: (kinda mainly for python because pythons too slow
 //to do like a bunch of problems, and as someone who kinda only knows
-//python (:ehecry:), i will know not to waste my time doing something not doable in
-//python)
+//python (:ehecry:), i will know not to waste my time doing something
+//not doable in python)
 
 //orz AZron for userscript template :praydge:
 
