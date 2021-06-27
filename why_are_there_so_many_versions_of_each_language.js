@@ -11,8 +11,8 @@
 
 $(document).ready(function() {
 
-    if ($("li.tab.active")[0].innerText == " Best" || $("li.tab.active")[0].innerText == " All") {
-
+    if ($("li.tab.active")[0].innerText == " Best") { 
+        
         var temp = document.querySelector("#content-right > div > div > div");
         
         // pyfon ones~
