@@ -7,6 +7,8 @@
 
 //orz AZron for userscript template :praydge:
 
+//oh yeah... errr sorry if its sorta messed up 🐒
+
 $(document).ready(function() {
 
     if ($("li.tab.active")[0].innerText == " Best" || $("li.tab.active")[0].innerText == " All") {
